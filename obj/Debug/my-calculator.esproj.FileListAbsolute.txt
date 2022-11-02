@@ -1,0 +1,2 @@
+C:\Users\Hode\Desktop\Learning\my-calculator\obj\Debug\my-calculator.esproj.SuggestedBindingRedirects.cache
+C:\Users\Hode\Desktop\Learning\my-calculator\obj\Debug\my-calculator.esproj.CoreCompileInputs.cache
